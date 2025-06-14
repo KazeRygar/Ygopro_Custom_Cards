@@ -1,0 +1,1 @@
+sqlite3 E_Cards.cdb ".dump" > E_Cards.sql

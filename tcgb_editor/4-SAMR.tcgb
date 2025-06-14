@@ -1,0 +1,1898 @@
+{
+    "game": 1,
+    "version": 2,
+    "cards": {
+        "SW Nobunaga Oda": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\01_Oda.jpg",
+            "artwork_crop": [
+                120,
+                81,
+                904,
+                893
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Nobunaga Oda\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can set 1 \"SW\" Trap Card from your Deck or Graveyard, but banish it when it leaves the field.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN001",
+            "card_number": "11511401",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Nobunaga Oda\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\01_Oda2.jpg",
+            "artwork_crop": [
+                22,
+                0,
+                687,
+                717
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Nobunaga Oda\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can set 1 \"SW\" Trap Card from your Deck or Graveyard, but banish it when it leaves the field.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN002",
+            "card_number": "11511402",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Nobunaga Oda\uFEFF": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\01_Oda3.jpg",
+            "artwork_crop": [
+                0,
+                15,
+                593,
+                743
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Nobunaga Oda\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can set 1 \"SW\" Trap Card from your Deck or Graveyard, but banish it when it leaves the field.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN003",
+            "card_number": "11511403",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Tadakatsu Honda": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\02_honda.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                423,
+                496
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 2,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Tadakatsu Honda\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can destroy 1 face-down card",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN004",
+            "card_number": "11511404",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Tadakatsu Honda\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\02_honda3.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                675,
+                960
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 2,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Tadakatsu Honda\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can destroy 1 face-up card on field.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN005",
+            "card_number": "11511405",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Tadakatsu Honda\uFEFF": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\02_honda2.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                2484,
+                3508
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 2,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Tadakatsu Honda\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can destroy 1 face-up card on field.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN006",
+            "card_number": "11511406",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Musashi Myamoto": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\03_Myamoto.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                3288,
+                4660
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 8,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Musashi Myamoto\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, it gains 300 ATK.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN007",
+            "card_number": "11511407",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Musashi Myamoto\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\03_Myamoto3.png",
+            "artwork_crop": [
+                0,
+                76,
+                565,
+                810
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 8,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Musashi Myamoto\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, it gains 300 ATK.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN008",
+            "card_number": "11511408",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Musashi Myamoto\uFEFF": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\03_Myamoto2.jpg",
+            "artwork_crop": [
+                0,
+                29,
+                564,
+                700
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 8,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Musashi Myamoto\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, it gains 300 ATK.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN009",
+            "card_number": "11511409",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Yukimura Sanada": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\05_sanada.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                600,
+                672
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 3,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Yukimura Sanada\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 face-up card, negate its effect",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN010",
+            "card_number": "11511410",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Yukimura Sanada\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\05_sanada2.jpg",
+            "artwork_crop": [
+                0,
+                95,
+                422,
+                600
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 3,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Yukimura Sanada\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 face-up card, negate its effect",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN011",
+            "card_number": "11511411",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Yukimura Sanada\uFEFF": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\05_sanada3.jpg",
+            "artwork_crop": [
+                25,
+                20,
+                483,
+                514
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 3,
+            "level": 9,
+            "icon": 0,
+            "description": "When you Special Summon a Level 4 \"SW\" monster(s) from your Hand, you can Special Summon this card from your Hand. You can only control 1 \"SW Yukimura Sanada\". Once per turn, this card cannot be destroyed by card effects. If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 face-up card, negate its effect",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "3000",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN012",
+            "card_number": "11511412",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Mitsuhide Akechi": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\04_Akechi.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                600,
+                719
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent declares an attack, you can Special Summon this card from your Hand. You can only use this effect of \"SW Mitsuhide Akechi\" once per turn. You can only control 1 \"SW Mitsuhide Akechi\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, all face-up \"SW\" monsters you control gain 100 ATK.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1900",
+            "def": "1500",
+            "edition": 1,
+            "set": "SAMR-EN013",
+            "card_number": "11511413",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Mitsuhide Akechi\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\04_Akechi2.png",
+            "artwork_crop": [
+                0,
+                0,
+                840,
+                900
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent declares an attack, you can Special Summon this card from your Hand. You can only use this effect of \"SW Mitsuhide Akechi \" once per turn. You can only control 1 \"SW Mitsuhide Akechi\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, all face-up \"SW\" monsters you control gain 100 ATK.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1900",
+            "def": "1500",
+            "edition": 1,
+            "set": "SAMR-EN014",
+            "card_number": "11511414",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Kenshin Uesigi": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\06_Uesugi.jpg",
+            "artwork_crop": [
+                0,
+                100,
+                600,
+                766
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 5,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent Special Summons a monster, you can Special Summon this card from your Hand. You can only use this effect of \"SW Kenshin Uesigi\" once per turn. You can only control 1 \"SW Kenshin Uesigi\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, banish 1 card from your opponent's Graveyard.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "1600",
+            "edition": 1,
+            "set": "SAMR-EN015",
+            "card_number": "11511415",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Kenshin Uesigi\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\06_Uesugi2.jpg",
+            "artwork_crop": [
+                0,
+                79,
+                564,
+                805
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 5,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent Special Summons a monster, you can Special Summon this card from your Hand. You can only use this effect of \"SW Kenshin Uesigi \" once per turn. You can only control 1 \"SW Kenshin Uesigi\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, banish 1 card from your opponent's Graveyard.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "1600",
+            "edition": 1,
+            "set": "SAMR-EN016",
+            "card_number": "11511416",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Keiji Maeda": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\Keiji_Maeda.jpg",
+            "artwork_crop": [
+                0,
+                58,
+                600,
+                766
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 3,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent declares an attack, you can Special Summon this card from your Hand. You can only use this effect of \"SW Keiji Maeda\" once per turn. You can only control 1 \"SW Keiji Maeda\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, inflict 300 damage to your opponent.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1700",
+            "edition": 1,
+            "set": "SAMR-EN017",
+            "card_number": "11511417",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Keiji Maeda\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\557187[1].jpg",
+            "artwork_crop": [
+                0,
+                0,
+                447,
+                640
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 3,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent declares an attack, you can Special Summon this card from your Hand. You can only use this effect of \"SW Keiji Maeda \" once per turn. You can only control 1 \"SW Keiji Maeda\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, inflict 300 damage to your opponent.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1700",
+            "edition": 1,
+            "set": "SAMR-EN018",
+            "card_number": "11511418",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Kanetsugo Naoe": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\Kanetsugu_Naoe.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                600,
+                800
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 5,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent activates a Spell\/Trap Card, you can Special Summon this card from your Hand. You can only use this effect of \"SW Kanetsugo Naoe\" once per turn. You can only control 1 \"SW Kanetsugo Naoe\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, Target 1 \"SW\" monster you control, place 1 SW counter on it (max 1). If an \"SW\" monster would be destroyed by a card effect, you can remove 1 SW counter from that card instead. If this card leaves the field, remove all SW counters on the field.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1700",
+            "edition": 1,
+            "set": "SAMR-EN019",
+            "card_number": "11511419",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Kanetsugo Naoe\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\Kanetsugu_Naoe2.jpg",
+            "artwork_crop": [
+                0,
+                34,
+                564,
+                647
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 5,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent activates a Spell\/Trap Card, you can Special Summon this card from your Hand. You can only use this effect of \"SW Kanetsugo Naoe\" once per turn. You can only control 1 \"SW Kanetsugo Naoe\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, Target 1 \"SW\" monster you control, place 1 SW counter on it (max 1). If an \"SW\" monster would be destroyed by a card effect, you can remove 1 SW counter from that card instead. If this card leaves the field, remove all SW counters on the field.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1700",
+            "edition": 1,
+            "set": "SAMR-EN020",
+            "card_number": "11511420",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Hanzo Hattori": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\Hanzo-sw2[1].jpg",
+            "artwork_crop": [
+                0,
+                73,
+                698,
+                740
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 4,
+            "icon": 0,
+            "description": "When an opponent's monster effect is activated, you can Special Summon this card from your Hand. You can only use this effect of \"SW Hanzo Hattori\" once per turn. You can only control 1 \"SW Hanzo Hattori\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 monster your opponent controls, change its battle position.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1200",
+            "edition": 1,
+            "set": "SAMR-EN021",
+            "card_number": "11511421",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Hanzo Hattori\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\Hanzo-sw2[1]2.jpg",
+            "artwork_crop": [
+                0,
+                55,
+                964,
+                872
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 4,
+            "icon": 0,
+            "description": "When an opponent's monster effect is activated, you can Special Summon this card from your Hand. You can only use this effect of \"SW Hanzo Hattori \" once per turn. You can only control 1 \"SW Hanzo Hattori\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 monster your opponent controls, change its battle position.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1200",
+            "edition": 1,
+            "set": "SAMR-EN022",
+            "card_number": "11511422",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Kotaro Fuma": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\KatoroFuma.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                565,
+                800
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 4,
+            "icon": 0,
+            "description": "When an opponent's monster effect is activated, you can Special Summon this card from your Hand. You can only use this effect of \"SW Kotaro Fuma\" once per turn. You can only control 1 \"SW Kotaro Fuma\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 face-up monster your opponent controls, flip it to face-down Defense Position.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1600",
+            "def": "1600",
+            "edition": 1,
+            "set": "SAMR-EN023",
+            "card_number": "11511423",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Kotaro Fuma\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\Kotaro_Fuma.jpg",
+            "artwork_crop": [
+                0,
+                120,
+                600,
+                785
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 4,
+            "icon": 0,
+            "description": "When an opponent's monster effect is activated, you can Special Summon this card from your Hand. You can only use this effect of \"SW Kotaro Fuma \" once per turn. You can only control 1 \"SW Kotaro Fuma\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 face-up monster your opponent controls, flip it to face-down Defense Position.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1600",
+            "def": "1600",
+            "edition": 1,
+            "set": "SAMR-EN024",
+            "card_number": "11511424",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ginchiyo Tachibana": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\09_tatchibana.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                379,
+                340
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 5,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent Special Summons a monster, you can Special Summon this card from your Hand. You can only use this effect of \"SW Ginchiyo Tachibana\" once per turn. You can only control 1 \"SW Ginchiyo Tachibana\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 face-up monster your opponent controls, it loses 500 ATK until the End Phase.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1900",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN025",
+            "card_number": "11511425",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ginchiyo Tachibana\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\09_tatchibana2.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                3263,
+                3614
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 5,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent Special Summons a monster, you can Special Summon this card from your Hand. You can only use this effect of \"SW Ginchiyo Tachibana \" once per turn. You can only control 1 \"SW Ginchiyo Tachibana\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 face-up monster your opponent controls, it loses 500 ATK until the End Phase.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1900",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN026",
+            "card_number": "11511426",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ranumora Mori": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\08_Ranomora2.jpg",
+            "artwork_crop": [
+                0,
+                105,
+                2452,
+                3032
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent adds card(s) to their Hand except by Drawing, you can Special Summon this card from your Hand. You can only use this effect of \"SW Ranumora Mori\" once per turn. You can only control 1 \"SW Ranumora Mori\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 face-up \"SW\" monster you control, it gains 500 ATK until the End Phase.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN027",
+            "card_number": "11511427",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ranumora Mori\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\08_Ranomora3.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                600,
+                678
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent adds card(s) to their Hand except by Drawing, you can Special Summon this card from your Hand. You can only use this effect of \"SW Ranumora Mori \" once per turn. You can only control 1 \"SW Ranumora Mori\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, you can target 1 face-up \"SW\" monster you control, it gains 500 ATK until the End Phase.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN028",
+            "card_number": "11511428",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Kai": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\kai.jpg",
+            "artwork_crop": [
+                0,
+                31,
+                449,
+                640
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent adds card(s) to their Hand except by Drawing, you can Special Summon this card from your Hand. You can only use this effect of \"SW Kai \" once per turn. You can only control 1 \"SW Kai\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, add 1 \"SW\" Spell Card from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1500",
+            "edition": 1,
+            "set": "SAMR-EN029",
+            "card_number": "11511429",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Kai\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\kai2.png",
+            "artwork_crop": [
+                0,
+                87,
+                1024,
+                873
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent adds card(s) to their Hand except by Drawing, you can Special Summon this card from your Hand. You can only use this effect of \"SW Kai \" once per turn. You can only control 1 \"SW Kai\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, add 1 \"SW\" Spell Card from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1500",
+            "edition": 1,
+            "set": "SAMR-EN030",
+            "card_number": "11511430",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW No": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\07_No.jpg",
+            "artwork_crop": [
+                245,
+                42,
+                797,
+                500
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent activates a Spell\/Trap Card, you can Special Summon this card from your Hand. You can only use this effect of \"SW No\" once per turn. You can only control 1 \"SW No\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, add 1 \"SW\" Trap Card from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1600",
+            "def": "1600",
+            "edition": 1,
+            "set": "SAMR-EN031",
+            "card_number": "11511431",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW No\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\07_No2.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                592,
+                600
+            ],
+            "background": 2,
+            "rarity": 5,
+            "attribute": 0,
+            "level": 4,
+            "icon": 0,
+            "description": "When your opponent activates a Spell\/Trap Card, you can Special Summon this card from your Hand. You can only use this effect of \"SW No\" once per turn. You can only control 1 \"SW No\". If this face-up card is destroyed, return it to Hand instead of sending it to Graveyard. When this card destroys a monster by battle, add 1 \"SW\" Trap Card from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1600",
+            "def": "1600",
+            "edition": 1,
+            "set": "SAMR-EN032",
+            "card_number": "11511432",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Zhou Tai": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\ally_Zhou_Tai.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                450,
+                518
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Mitsuhide Akechi\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Zhou Tai\". When this card destroys a monster by battle, Draw 1 card, if it is a Level 4 \"SW\" monster you can reveal it to your opponent then Special Summon it.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2500",
+            "def": "2300",
+            "edition": 1,
+            "set": "SAMR-EN033",
+            "card_number": "11511433",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Zhou Tai\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\ally_Zhou_Tai2.jpg",
+            "artwork_crop": [
+                0,
+                167,
+                563,
+                811
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Mitsuhide Akechi\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Zhou Tai\". When this card destroys a monster by battle, Draw 1 card, if it is a Level 4 \"SW\" monster you can reveal it to your opponent then Special Summon it.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2500",
+            "def": "2300",
+            "edition": 1,
+            "set": "SAMR-EN034",
+            "card_number": "11511434",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Guan Yu": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\ally_guan_yu.jpg",
+            "artwork_crop": [
+                0,
+                38,
+                563,
+                696
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 2,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Keiji Maeda\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Guan Yu\". When this card destroys a monster by battle, your opponent discards 1 random card.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2500",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN035",
+            "card_number": "11511435",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Guan Yu\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\ally_guan_yu2.jpg",
+            "artwork_crop": [
+                0,
+                69,
+                564,
+                671
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 2,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Keiji Maeda\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Guan Yu\". When this card destroys a monster by battle, your opponent discards 1 random card.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2500",
+            "def": "3000",
+            "edition": 1,
+            "set": "SAMR-EN036",
+            "card_number": "11511436",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Zhang He": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\ally_zhang_he.jpg",
+            "artwork_crop": [
+                0,
+                41,
+                563,
+                609
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Ginchiyo Tachibana\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Zhang He\". When this card destroys a monster by battle, you can destroy 1 Spell\/Trap Card on the field.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "2000",
+            "edition": 1,
+            "set": "SAMR-EN037",
+            "card_number": "11511437",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Zhang He\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\ally_zhang_he2.jpg",
+            "artwork_crop": [
+                75,
+                0,
+                1367,
+                1544
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Ginchiyo Tachibana\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Zhang He\". When this card destroys a monster by battle, you can destroy 1 Spell\/Trap Card on the field.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "2000",
+            "edition": 1,
+            "set": "SAMR-EN038",
+            "card_number": "11511438",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Sanzang": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\ally_sanzang1.png",
+            "artwork_crop": [
+                0,
+                0,
+                680,
+                637
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Ranumora Mori\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Sanzang\". When this card destroys a monster by battle, you can return 1 \"SW\" monster from your Graveyard to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2300",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN039",
+            "card_number": "11511439",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Sanzang\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\ally_sanzang1.jpg",
+            "artwork_crop": [
+                0,
+                95,
+                774,
+                828
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 9,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Ranumora Mori\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Sanzang\". When this card destroys a monster by battle, you can return 1 \"SW\" monster from your Graveyard to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2300",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN040",
+            "card_number": "11511440",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Zou Ci": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\Zuo_Ci_15th_Anniversary_Artwork_(DWEKD).jpg",
+            "artwork_crop": [
+                0,
+                132,
+                2002,
+                2520
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 5,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Kenshin Uesigi\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Zou Ci\"\". When this card destroys a monster by battle, you can add 1 Level 4 \"SW\" monster from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2800",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN041",
+            "card_number": "11511441",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Zou Ci\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\dw5-others-zuo-ci.jpg",
+            "artwork_crop": [
+                0,
+                10,
+                486,
+                532
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 5,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Kenshin Uesigi\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Zou Ci\"\". When this card destroys a monster by battle, you can add 1 Level 4 \"SW\" monster from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2800",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN042",
+            "card_number": "11511442",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Fu Xi": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\fuxi2.jpg",
+            "artwork_crop": [
+                162,
+                139,
+                855,
+                904
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 2,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Hanzo Hattori\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Fu Xi\"\". When this card destroys a monster by battle, you can Special Summon 1 Level 9 \"SW\" monster from your Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN043",
+            "card_number": "11511443",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ally Fu Xi\u200D": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\fu_xi_by_a821618628-dbn2x30.jpg",
+            "artwork_crop": [
+                28,
+                0,
+                951,
+                929
+            ],
+            "background": 4,
+            "rarity": 5,
+            "attribute": 2,
+            "level": 8,
+            "icon": 0,
+            "description": "1 \"SW\" Tuner + \"SW Hanzo Hattori\"\r\nWhen this card is Synchro Summoned, Special Summon 1 of Synchro Material monsters used for the Summon from your Graveyard, then return the other Synchro Material to your Hand. You can only control 1 \"SW Ally Fu Xi\"\". When this card destroys a monster by battle, you can Special Summon 1 Level 9 \"SW\" monster from your Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "1000",
+            "edition": 1,
+            "set": "SAMR-EN044",
+            "card_number": "11511444",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "Castle Of The SW Clan": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\the_exquisite_palace_of_the_crane_by_alayna-d6wty6m.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                965,
+                827
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 4,
+            "description": "All \"SW\" monsters you control gain 300 ATK. Once per turn: You can add 1 Level 4 \"SW\" from your Deck to Hand. Once per turn, when you Special Summon an \"SW\" monster(s) from your Hand, you can add 1 \"SW\" Spell\/Trap Card from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN045",
+            "card_number": "11511445",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "Demon Regaila": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\Demon_Regalia.jpg",
+            "artwork_crop": [
+                24,
+                25,
+                359,
+                349
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 3,
+            "description": "Equip only to an \"SW\" monster. The equipped monster gains 700 ATK, also negate the effect of an opponent monster that battles the equipped monster until the end of the Damaga Step. You can equip this card from your Graveyard to 1 \"SW Nobunaga Oda\" monster you control. You can banish this card from your Graveyard, add 1 \"SW Nobunaga Oda\" from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN046",
+            "card_number": "11511446",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "Tonbo-giri": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\Tonbo-giri.jpg",
+            "artwork_crop": [
+                24,
+                20,
+                411,
+                349
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 3,
+            "description": "Equip only to an \"SW\" monster. The equipped monster gains 1000 ATK, and if it attacked a Defense Position monster, inflict piercing battle damage to your opponent. You can equip this card from your Graveyard to 1 \"SW Tadakatsu Honda\" monster you control. You can banish this card from your Graveyard, add 1 \"SW Tadakatsu Honda\" from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN047",
+            "card_number": "11511447",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "Mastery And Vision": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\mastery_n_vision.jpg",
+            "artwork_crop": [
+                20,
+                0,
+                420,
+                358
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 3,
+            "description": "Equip only to an \"SW\" monster. The equipped monster gains 500 ATK, and if it destroyed an opponent's monster by battle it can attack once again in a row. You can equip this card from your Graveyard to 1 \"SW Musashi Myamoto\" monster you control. You can banish this card from your Graveyard, add 1 \"SW Musashi Myamoto\" from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN048",
+            "card_number": "11511448",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "Dragon's Tail": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\dragon_tail.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                362,
+                353
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 3,
+            "description": "Equip only to an \"SW\" monster. The equipped monster gains ATK equal to the number of \"SW\" monsters you control x 300, also it cannot be destroyed by card effects. You can equip this card from your Graveyard to 1 \"SW Yukimura Sanada\" monster you control. You can banish this card from your Graveyard, add 1 \"SW Yukimura Sanada\" from your Deck to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN049",
+            "card_number": "11511449",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "The SW Legendary Mount": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\Animation-Horse-Fantasy-Amazing-Photo-Share-On-Facebook.jpg",
+            "artwork_crop": [
+                627,
+                0,
+                1920,
+                1080
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 3,
+            "description": "Equip only to an \"SW\" monster. The equipped monster gains 1000 DEF, also it cannot be targeted by your opponent's card effects. If the equipped monster would be destroyed you can destroy this card instead.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN050",
+            "card_number": "11511450",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Race": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\WO3_Journey_To_The_West.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                1280,
+                720
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 5,
+            "description": "Select 1 appropriate Equip Spell Card from your Deck or Graveyard, equip it to an appropriate \"SW\" monster you control. You can banish this card from your Graveyard. destroy Spell\/Trap Cards your opponent controls up to the number of \"SW\" monsters you control.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN051",
+            "card_number": "11511451",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ninja Coalition": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\Warriors_Orochi_3_-_Ninja_Forces_Wallpaper.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                1280,
+                720
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 5,
+            "description": "All \"SW\" monsters you control gain ATK equal to the number of \"SW\" monsters you control x 300 until the End Phase.\r\n",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN052",
+            "card_number": "11511452",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Demon King": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\nobunaga_by_ladytuonela-d78zas8.png",
+            "artwork_crop": [
+                182,
+                9,
+                618,
+                399
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 0,
+            "description": "Special Summon 1 \"SW\" monster from your Hand. If you control a Level 9 \"SW\" monster(s) You can banish this card from your Graveyard, destroy cards on your opponent's side of the field up to the number of Level 9 \"SW\" monsters you control.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN053",
+            "card_number": "11511453",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Bringer Of Peace": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\vbb.jpg",
+            "artwork_crop": [
+                527,
+                0,
+                1193,
+                669
+            ],
+            "background": 16,
+            "rarity": 5,
+            "attribute": 6,
+            "level": 0,
+            "icon": 0,
+            "description": "Add either 1 Level 9 \"SW\" monster or 2 Level 4 \"SW\" monsters from your Deck to Hand. You can banish this card from your Graveyard, return 1 \"SW\" monster from your Graveyard to Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN054",
+            "card_number": "11511454",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Peace Treaty": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\c8b4620f4cbe4ca7a6c581d33946757a.jpg",
+            "artwork_crop": [
+                46,
+                0,
+                487,
+                327
+            ],
+            "background": 18,
+            "rarity": 5,
+            "attribute": 7,
+            "level": 0,
+            "icon": 2,
+            "description": "Disacrd 1 \"SW\" monster; negate the activation of an opponent's Spell\/Trap Card or effect monster's effect and destroy it.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN055",
+            "card_number": "11511455",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Trapping Lure": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\EV02B_jokoutakenakaL.jpg",
+            "artwork_crop": [
+                133,
+                0,
+                701,
+                488
+            ],
+            "background": 18,
+            "rarity": 5,
+            "attribute": 7,
+            "level": 0,
+            "icon": 0,
+            "description": "When an Opponenent's monster declares an attack on an \"SW\" monster you control you can change the attack target to another \"SW\" monster you control, also the attacking monster loses 500 ATK during the Damage Step only.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN056",
+            "card_number": "11511456",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Morale": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\550660.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                2880,
+                1800
+            ],
+            "background": 18,
+            "rarity": 5,
+            "attribute": 7,
+            "level": 0,
+            "icon": 1,
+            "description": "Each time an \"SW\" monster destroys an opponent monster by battle and sends it to Graveyard or an \"SW\" monster(s) is Special Summoned from your Hand, all \"SW\" monsters you control gain 200 ATK until your opponent's next End Phase.\r\n",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN057",
+            "card_number": "11511457",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Immortal Battle": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\a45cb7304b899ce8352fb2f16e605dc4.jpg",
+            "artwork_crop": [
+                0,
+                0,
+                376,
+                376
+            ],
+            "background": 18,
+            "rarity": 5,
+            "attribute": 7,
+            "level": 0,
+            "icon": 1,
+            "description": "Up to twice per turn if an \"SW\" monster would be destroyed, it is not destroyed. If an \"SW\" monster you control battles an opponent's monster, your opponent cannot activate cards or effects until the end of the Damaga Step.\r\n",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN058",
+            "card_number": "11511458",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Formation Transform": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\2j31y02.jpg",
+            "artwork_crop": [
+                0,
+                42,
+                340,
+                456
+            ],
+            "background": 18,
+            "rarity": 5,
+            "attribute": 7,
+            "level": 0,
+            "icon": 0,
+            "description": "Target up to 2 \"SW\" monster you control, return them to Hand then Special Summon \"SW\" monsters as many as targeted cards from your Hand, you cannot Special Summon monsters with the same name as the returned card(s).",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN059",
+            "card_number": "11511459",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        },
+        "SW Ambush": {
+            "artwork": "F:\\Games\\ygoproCards\\cards\\sw\\st\\SW4-II_KeyArt.jpg",
+            "artwork_crop": [
+                47,
+                0,
+                1298,
+                1080
+            ],
+            "background": 18,
+            "rarity": 5,
+            "attribute": 7,
+            "level": 0,
+            "icon": 0,
+            "description": "Special Summon as many Level 4 \"SW\" monsters as you want with different names from your Hand. At the End Phase; return all monsters Summoned by this effect to your Hand.",
+            "pendulum_description": "",
+            "pendulum_scales": [
+                0,
+                0
+            ],
+            "subtypes": [],
+            "atk": "0",
+            "def": "0",
+            "edition": 1,
+            "set": "SAMR-EN060",
+            "card_number": "11511460",
+            "limitation": "",
+            "sticker": 1,
+            "copyright": 1
+        }
+    }
+}
