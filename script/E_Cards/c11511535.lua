@@ -48,7 +48,7 @@ function s.filter(c)
 	return c:IsSetCard(0xffa) and c:IsMonster() and c:IsFaceup()
 end
 function s.con(e,tp,eg,ep,ev,re,r,rp)
-	return Duel.GetMatchingGroup(s.filter,tp,LOCATION_MZONE+LOCATION_GRAVE,0,nil):GetClassCount(Card.GetRace)>=e:GetLabel()
+	return Duel.GetMatchingGroup(s.filter,e:GetHandlerPlayer(),LOCATION_MZONE+LOCATION_GRAVE,0,nil):GetClassCount(Card.GetRace)>=e:GetLabel()
 end
 function s.filterF(c,tp)
 	return c:IsSetCard(0xffa) and c:GetSummonType()==SUMMON_TYPE_FUSION and c:IsControler(tp)
