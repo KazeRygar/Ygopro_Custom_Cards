@@ -35,8 +35,7 @@ function s.valcon(e,re,r,rp)
 	return (r&REASON_BATTLE)~=0
 end
 function s.filter(c)
-	return c:IsSetCard(0xff7) and c:IsAbleToHand()
-		and (c:GetType()==TYPE_SPELL or  c:GetType()==TYPE_TRAP)
+	return c:IsSetCard(0xff7) and c:IsAbleToHand() and (c:IsNormalSpell() or  c:IsNormalTrap())
 end
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.IsExistingMatchingCard(s.filter,tp,LOCATION_DECK,0,1,nil) end

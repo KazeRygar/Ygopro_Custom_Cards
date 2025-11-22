@@ -44,21 +44,18 @@ function s.filterS(c)
 	return c:IsSpell() and s.filter(c)
 end
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk)
-	if chk==0 then return Duel.IsExistingMatchingCard(s.filterM,tp,LOCATION_GRAVE,0,1,nil)
-	  or Duel.IsExistingMatchingCard(s.filterS,tp,LOCATION_DECK,0,1,nil) end
+	if chk==0 then return Duel.IsExistingMatchingCard(s.filterS,tp,LOCATION_DECK,0,1,nil) end
 	Duel.SetOperationInfo(0,CATEGORY_TOHAND,nil,1,tp,LOCATION_DECK)
-	Duel.SetOperationInfo(0,CATEGORY_TOHAND,nil,1,tp,LOCATION_GRAVE)
 end
 function s.operation(e,tp,eg,ep,ev,re,r,rp)
 	Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_ATOHAND)
-	local g=Duel.SelectMatchingCard(tp,s.filterM,tp,LOCATION_GRAVE,0,1,1,nil)
-	if #g>0 then
-		Duel.SendtoHand(g,nil,REASON_EFFECT)
-	end
-	Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_ATOHAND)
-	g=Duel.SelectMatchingCard(tp,s.filterS,tp,LOCATION_DECK,0,1,1,nil)
-	if #g>0 then
-		Duel.SendtoHand(g,nil,REASON_EFFECT)
+	local g=Duel.SelectMatchingCard(tp,s.filterS,tp,LOCATION_DECK,0,1,1,nil)
+	if #g>0 and Duel.SendtoHand(g,nil,REASON_EFFECT) then
 		Duel.ConfirmCards(1-tp,g)
+		Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_ATOHAND)
+		g=Duel.SelectMatchingCard(tp,s.filterM,tp,LOCATION_GRAVE,0,1,1,nil)
+		if #g>0 then
+			Duel.SendtoHand(g,nil,REASON_EFFECT)
+		end
 	end
 end
